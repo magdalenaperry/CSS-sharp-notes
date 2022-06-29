@@ -87,15 +87,15 @@ namespace CatWorx.BadgeMaker
 // Loops
 
             //
-            // for (int i = 0; i < 10; i++)
-            // {
-            //     Console.WriteLine("Value of i: {0}",  i);
-            // }
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Value of i: {0}",  i);
+            }
 
 // 866-258-0114
 
             int i = 0;
-
+            // initializer, condition and interator sections are optional
             for( ; ; )
             {
                 if (i < 10)
@@ -107,6 +107,10 @@ namespace CatWorx.BadgeMaker
                     break;
             }
                 
+            // decimals 
+            for (double d = 1.01D; d < 1.10; d+= 0.01D) {
+                Console.WriteLine("Value of i: {0}", d);
+            }
     
     
         }
