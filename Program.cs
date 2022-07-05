@@ -9,11 +9,13 @@ namespace CatWorx.BadgeMaker
       //return list of employees
       List<string> employees = new List<string>();
       while(true){
-        Console.WriteLine("Please enter employee name: (leave empty to exit. ");
+        Console.WriteLine("Please enter employee name: (leave empty to exit). ");
         string input = Console.ReadLine();
         if(input == ""){
           break;
         }
+        // create employee instance in employee.cs file
+        Employee currentEmployee = new Employee();
         employees.Add(input);
       }
       return employees;
@@ -33,6 +35,8 @@ namespace CatWorx.BadgeMaker
     }
 
   }
+
+
 }
 
 // [access_modifier] ["static"] return_type name([parameters])
