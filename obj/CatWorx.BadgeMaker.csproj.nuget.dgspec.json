@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bperr\\Projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {}
+    "/Users/magperry/Bootcamp/Homework/CSS-sharp-notes/CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bperr\\Projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj": {
+    "/Users/magperry/Bootcamp/Homework/CSS-sharp-notes/CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bperr\\Projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "/Users/magperry/Bootcamp/Homework/CSS-sharp-notes/CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "C:\\Users\\bperr\\Projects\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
-        "packagesPath": "C:\\Users\\bperr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bperr\\Projects\\CatWorx.BadgeMaker\\obj\\",
+        "projectPath": "/Users/magperry/Bootcamp/Homework/CSS-sharp-notes/CatWorx.BadgeMaker.csproj",
+        "packagesPath": "/Users/magperry/.nuget/packages/",
+        "outputPath": "/Users/magperry/Bootcamp/Homework/CSS-sharp-notes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bperr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/magperry/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.420/RuntimeIdentifierGraph.json"
         }
       }
     }

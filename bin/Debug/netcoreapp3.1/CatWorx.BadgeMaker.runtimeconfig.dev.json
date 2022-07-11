@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\bperr\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\bperr\\.nuget\\packages"
+      "/Users/magperry/.dotnet/store/|arch|/|tfm|",
+      "/Users/magperry/.nuget/packages"
     ]
   }
 }
